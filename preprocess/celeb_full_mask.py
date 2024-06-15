@@ -5,9 +5,9 @@ from utils import make_folder
 
 # Define the list of common labels
 label_list = {
-    'iris': ['l_iris', 'r_iris'],
     'brow': ['l_brow', 'r_brow'],
     'sclera': ['l_sclera', 'r_sclera'],
+    'iris': ['l_iris', 'r_iris'],
     'caruncle': ['l_caruncle', 'r_caruncle'],
     'lid': ['l_lid', 'r_lid']
 }
