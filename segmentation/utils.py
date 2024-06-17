@@ -8,7 +8,7 @@ from scipy.ndimage import distance_transform_edt
 
 
 
-CLASSES=3
+CLASSES=6
 
 def make_folder(path, version):
         if not os.path.exists(os.path.join(path, version)):
